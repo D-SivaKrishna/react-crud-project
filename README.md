@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-crud-project
+_This repository contains a React application demonstrating CRUD (Create,Read,Update and Delete) operations.The project showcase how to manage data through a user-friendly interface connected to a backend API._
+
+# **Features**
+
+*Create* : _Add new items to the database._
+*Read* : _Fetch and display items from the database._
+*Update* : _Edit Existing items._
+*Delete* : _Remove items from the database._
+*Responsive UI* : _User-Friendly and responsive interface._
+
+# **Technologies Used**
+_1. HTML_\
+_2. CSS_\
+_3. JAVASCRIPT_\
+_4. REACT-JS_
+>>>>>>> d3faf735167ffbbeea951473bedf9ac9048c9bf6
